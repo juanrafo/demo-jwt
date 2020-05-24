@@ -1,3 +1,6 @@
+Ejecutar script para post man:
+=============================
+
 curl -i -H "Content-Type: application/json" -X POST -d "{ """username""": """admin""", """password""": """password"""}"  http://localhost:8080/login
 
 curl -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1OTAyOTQzNTAsImlzcyI6Imh0dHBzOi8vd3d3LmF1dGVudGlhLmNvbS8iLCJzdWIiOiJhZG1pbiIsImV4cCI6MTU5MTE1ODM1MH0.enqCo7bL0lAD4kfb8pSqVb_DurJVo41Ag-4n22bl5EhPaKfmFSsMX_A_qBk7pwPXygLdiyX65nN7z3MW6AQe-w" http://localhost:8080/users/
