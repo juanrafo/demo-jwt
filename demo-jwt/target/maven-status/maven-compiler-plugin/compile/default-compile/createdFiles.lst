@@ -1,0 +1,9 @@
+com\autentia\demo\jwt\usuario\UsuarioController.class
+com\autentia\demo\jwt\usuario\UsuarioRepository.class
+com\autentia\demo\jwt\Application.class
+com\autentia\demo\jwt\security\WebSecurity.class
+com\autentia\demo\jwt\security\JWTAuthenticationFilter.class
+com\autentia\demo\jwt\usuario\UsuarioDetailsServiceImpl.class
+com\autentia\demo\jwt\security\Constants.class
+com\autentia\demo\jwt\security\JWTAuthorizationFilter.class
+com\autentia\demo\jwt\usuario\Usuario.class
